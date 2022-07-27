@@ -1,6 +1,5 @@
 config.sh
 *.rdb
 *.aof
-*.conf
 *.log
 appendonlydir-*
