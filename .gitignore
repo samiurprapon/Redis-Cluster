@@ -1,5 +1,2 @@
-config.sh
-*.rdb
-*.aof
-*.log
-appendonlydir-*
+data/
+.log
